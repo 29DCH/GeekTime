@@ -1,5 +1,5 @@
 # GeekTime
-the resource of GeekTime
+the resource of GeekTime(单纯地分享，不涉及任何商业性质)
 
 https://time.geekbang.org/column/intro/133
 
